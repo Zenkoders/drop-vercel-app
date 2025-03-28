@@ -1,0 +1,14 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.drop.social.app",
+        "sha256_cert_fingerprints": [
+          "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+          "2B:5A:91:19:4B:0D:2F:DA:88:A0:B6:34:4C:D5:4C:E3:1A:1B:EB:FA:24:22:BE:F7:7C:1E:63:38:06:6A:D8:35",
+          "A5:E5:C4:0A:AC:72:86:C7:E7:5E:16:E9:73:7F:B2:6D:06:C4:6F:A5:73:A4:48:4B:E8:5E:5A:B4:FA:C7:F4:B6"
+        ]
+      }
+    }
+]
